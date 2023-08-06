@@ -37,7 +37,7 @@ html, body {
 }
 .home-page-bg-image {
     background-image: url("images/home-page-background.jpeg");
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     width: 100%;
     height: 100%;
